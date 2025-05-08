@@ -6,7 +6,8 @@
 - [Preparação Oficial para o Exame - Amazon Skill Builder](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/19554/exam-prep-standard-course-aws-certified-ai-practitioner-aif-c01) - recomendado assistir em 1.5x
 - [Questões Práticas Oficiais do Exame](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/19790/exam-prep-official-practice-question-set-aws-certified-ai-practitioner-aif-c01-english) - Aproximadamente no nível do exame real.
 - [Canvas com as questões](https://www.canva.com/design/DAGiSovb11k/p9QsrmmeMQ7jzZsSJY_SvQ/edit) - Questões igual ao do exame. Acima o pdf com as respostas
-- [Simulados + mini simulados + Flash Cards](https://simuladoclf.s3.amazonaws.com/index.html) - 
+- [Simulados + mini simulados + Flash Cards](https://simuladoclf.s3.amazonaws.com/index.html)
+- [ Mapa mental do Sage Maker + post-it de assuntos para estudar](https://miro.com/app/board/uXjVINTLH8E=/) 
 
 ## Visão Geral
 
